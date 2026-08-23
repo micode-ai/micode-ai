@@ -8,6 +8,7 @@
 <p align="center">
   <a href="https://mi-code.pl"><img src="https://img.shields.io/badge/mi--code.pl-1f6feb?style=flat-square&logo=googlechrome&logoColor=white" alt="mi-code.pl" /></a>
   <a href="https://mi-code.pl/blog/"><img src="https://img.shields.io/badge/Blog-30363D?style=flat-square&logo=rss&logoColor=white" alt="Blog" /></a>
+  <a href="https://www.linkedin.com/in/mikhailperaviortkin"><img src="https://img.shields.io/badge/LinkedIn-30363D?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="mailto:perevertkinma@gmail.com"><img src="https://img.shields.io/badge/Email-30363D?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
@@ -189,6 +190,7 @@ Voice-first construction site journal for small crews — Telegram bot capture, 
 <p>
   <a href="https://mi-code.pl"><img src="https://img.shields.io/badge/Website-mi--code.pl-1f6feb?style=flat-square" alt="Website"></a>
   <a href="https://mi-code.pl/blog/"><img src="https://img.shields.io/badge/Blog-articles-30363D?style=flat-square" alt="Blog"></a>
+  <a href="https://www.linkedin.com/in/mikhailperaviortkin"><img src="https://img.shields.io/badge/LinkedIn-mikhailperaviortkin-30363D?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:perevertkinma@gmail.com"><img src="https://img.shields.io/badge/Email-perevertkinma%40gmail.com-30363D?style=flat-square" alt="Email"></a>
   <img src="https://img.shields.io/badge/Location-Gda%C5%84sk%2C_Poland-30363D?style=flat-square" alt="Location">
 </p>
