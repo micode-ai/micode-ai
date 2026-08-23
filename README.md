@@ -206,6 +206,14 @@ Voice-first construction site journal for small crews — Telegram bot capture, 
 
 <p align="center">
   <img
+    src="./assets/discussion-impact.svg"
+    width="720"
+    alt="GitHub Discussions impact — accepted answers, upvotes and top repositories"
+  />
+</p>
+
+<p align="center">
+  <img
     src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=micode-ai&theme=github_dark"
     width="100%"
     alt="GitHub profile summary — contributions, public repositories and activity over the last year"
