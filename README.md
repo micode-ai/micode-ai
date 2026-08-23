@@ -9,6 +9,7 @@
   <a href="https://mi-code.pl"><img src="https://img.shields.io/badge/mi--code.pl-1f6feb?style=flat-square&logo=googlechrome&logoColor=white" alt="mi-code.pl" /></a>
   <a href="https://mi-code.pl/blog/"><img src="https://img.shields.io/badge/Blog-30363D?style=flat-square&logo=rss&logoColor=white" alt="Blog" /></a>
   <a href="https://www.linkedin.com/in/mikhailperaviortkin"><img src="https://img.shields.io/badge/LinkedIn-30363D?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.upwork.com/freelancers/~0111066307e26807ec"><img src="https://img.shields.io/badge/Upwork-30363D?style=flat-square&logo=upwork&logoColor=6FDA44" alt="Upwork" /></a>
   <a href="mailto:perevertkinma@gmail.com"><img src="https://img.shields.io/badge/Email-30363D?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
@@ -34,6 +35,22 @@
     src="https://skillicons.dev/icons?i=ts,js,java,spring,angular,svelte,nextjs,nodejs,python,postgres,prisma,docker,githubactions,tailwind,git&theme=dark"
     width="470"
   />
+</p>
+
+### ◈ Learning & Achievements
+
+<p align="center">
+<a href="https://mi-code.pl/#certificates-title"><img src="https://img.shields.io/badge/NVIDIA-Deep_Learning_%C2%B7_2026-30363D?style=flat-square&logo=nvidia&logoColor=76B900&labelColor=161b22" alt="NVIDIA — Certificate of Competency, Getting Started with Deep Learning, 2026" /></a>
+<a href="https://mi-code.pl/#certificates-title"><img src="https://img.shields.io/badge/Hugging_Face-Agents_%C2%B7_2025-30363D?style=flat-square&logo=huggingface&logoColor=FFD21E&labelColor=161b22" alt="Hugging Face — Fundamentals of Agents, 2025" /></a>
+<a href="https://mi-code.pl/#certificates-title"><img src="https://img.shields.io/badge/Hugging_Face-LLMs_%C2%B7_2025-30363D?style=flat-square&logo=huggingface&logoColor=FFD21E&labelColor=161b22" alt="Hugging Face — Fundamentals of LLMs, 2025" /></a>
+<a href="https://mi-code.pl/#certificates-title"><img src="https://img.shields.io/badge/Hugging_Face-MCP_%C2%B7_2025-30363D?style=flat-square&logo=huggingface&logoColor=FFD21E&labelColor=161b22" alt="Hugging Face — Fundamentals of MCP, 2025" /></a>
+<a href="https://mi-code.pl/#certificates-title"><img src="https://img.shields.io/badge/Oracle_University-ADF_11g_Implementation_Specialist_%C2%B7_2014-30363D?style=flat-square&labelColor=161b22" alt="Oracle University — Application Development Framework 11g Certified Implementation Specialist, 2014" /></a>
+<br>
+<br>
+<img src="https://github.githubassets.com/assets/pull-shark-default-498c279a747d.png" width="54" alt="GitHub achievement: Pull Shark ×3" title="Pull Shark ×3" />&nbsp;&nbsp;&nbsp;
+<img src="https://github.githubassets.com/assets/pair-extraordinaire-default-579438a20e01.png" width="54" alt="GitHub achievement: Pair Extraordinaire ×2" title="Pair Extraordinaire ×2" />&nbsp;&nbsp;&nbsp;
+<img src="https://github.githubassets.com/assets/quickdraw-default-39c6aec8ff89.png" width="54" alt="GitHub achievement: Quickdraw" title="Quickdraw" />&nbsp;&nbsp;&nbsp;
+<img src="https://github.githubassets.com/assets/yolo-default-be0bbff04951.png" width="54" alt="GitHub achievement: YOLO" title="YOLO" />
 </p>
 
 ### ▣ Products
@@ -206,6 +223,7 @@ Voice-first construction site journal for small crews — Telegram bot capture, 
   <a href="https://mi-code.pl"><img src="https://img.shields.io/badge/Website-mi--code.pl-1f6feb?style=flat-square" alt="Website"></a>
   <a href="https://mi-code.pl/blog/"><img src="https://img.shields.io/badge/Blog-articles-30363D?style=flat-square" alt="Blog"></a>
   <a href="https://www.linkedin.com/in/mikhailperaviortkin"><img src="https://img.shields.io/badge/LinkedIn-mikhailperaviortkin-30363D?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.upwork.com/freelancers/~0111066307e26807ec"><img src="https://img.shields.io/badge/Upwork-hire_me-30363D?style=flat-square&logo=upwork&logoColor=6FDA44" alt="Upwork"></a>
   <a href="mailto:perevertkinma@gmail.com"><img src="https://img.shields.io/badge/Email-perevertkinma%40gmail.com-30363D?style=flat-square" alt="Email"></a>
   <img src="https://img.shields.io/badge/Location-Gda%C5%84sk%2C_Poland-30363D?style=flat-square" alt="Location">
 </p>
