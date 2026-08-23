@@ -12,6 +12,21 @@
   <a href="mailto:perevertkinma@gmail.com"><img src="https://img.shields.io/badge/Email-30363D?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
+<p align="center">
+  <a href="https://github.com/micode-ai?tab=repositories&sort=stargazers">
+    <img
+      src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github-star-counter.workers.dev%2Fuser%2Fmicode-ai&query=%24.stars&label=Total%20stars&prefix=%E2%98%85%20&labelColor=161b22&color=1f6feb&style=flat-square&logo=github&logoColor=white"
+      alt="Total stars across all public repositories"
+    />
+  </a>
+  <a href="https://github.com/micode-ai?tab=followers">
+    <img
+      src="https://img.shields.io/github/followers/micode-ai?style=flat-square&label=Followers&labelColor=161b22&color=30363D&logo=github&logoColor=white"
+      alt="Followers"
+    />
+  </a>
+</p>
+
 ### ◇ Tech Stack
 
 <p align="center">
