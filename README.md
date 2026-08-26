@@ -26,6 +26,10 @@
       alt="Followers"
     />
   </a>
+  <img
+    src="https://komarev.com/ghpvc/?username=micode-ai&label=Profile+views&color=1f6feb&style=flat-square"
+    alt="Profile views"
+  />
 </p>
 
 ### ◇ Tech Stack
